@@ -1,3 +1,4 @@
+This is a budget application that allows you to sort your expenses by category, and filter through them based on category and date.
 
 ## Instruction for using the Budget application
 
