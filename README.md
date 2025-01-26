@@ -1,4 +1,5 @@
 This is a budget application that allows you to sort your expenses by category, and filter through them based on category and date.
+The graphs show the total amount of money spent, and are not filtered down like the list of purchases that appear.
 
 ## Instruction for using the Budget application
 
